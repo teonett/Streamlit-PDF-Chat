@@ -2,3 +2,8 @@ streamlit==1.28.0
 python-dotenv
 PyPDF2==3.0.1
 langchain==0.0.314
+llama_index==0.6.15
+openai
+tiktoken
+faiss-cpu
+altair
