@@ -28,8 +28,6 @@ from langchain.callbacks import get_openai_callback
 # +=========================================================+ #
 # | Function to importing, idex content and ask PDF file    | #
 # +=========================================================+ #
-
-
 def main():
     load_dotenv()
     st.set_page_config(page_title="Ask your PDF")
